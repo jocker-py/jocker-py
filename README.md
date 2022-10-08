@@ -74,7 +74,6 @@ Stage#0
 * [Portfolio](https://jocker-py.github.io/projects-stage0/portfolio/)
 * [Image-Gallery](https://jocker-py.github.io/projects-stage0/image-galery/)
 * [Memory-Game](https://jocker-py.github.io/projects-stage0/memory-game/)
-
 ---
 Stage#1
 * [Shelter](https://jocker-py.github.io/Shelter/main/)
@@ -83,12 +82,11 @@ Stage#1
 ---
 Stage#2
 * [NewsAPI](https://jocker-py.github.io/newsAPI/index.html)
+* [Online-Store](https://jocker-py-online-store.netlify.app/)
 * [Async-Race](https://github.com/jocker-py/Async-Race)
-
 ---
-TeamWork
+Team-Work
 * [RS-Lang](https://rslang-team24-saintsanta-skylang.netlify.app/)
-
 --- 
 React
 
