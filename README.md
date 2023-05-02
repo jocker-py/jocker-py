@@ -26,7 +26,7 @@
 ### :man_technologist: About Me :
 I am a Front End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Belarus.
 
-- :telescope: I'm studying Front End Developer at RS School how to create a frontend for building web applications.
+- :telescope: I'm studying Front End Developer at It-incubator how to create a frontend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
